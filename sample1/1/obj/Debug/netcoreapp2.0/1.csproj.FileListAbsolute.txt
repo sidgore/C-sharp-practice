@@ -1,0 +1,11 @@
+/Users/sidgore/Projects/sample1/1/bin/Debug/netcoreapp2.0/1.deps.json
+/Users/sidgore/Projects/sample1/1/bin/Debug/netcoreapp2.0/1.runtimeconfig.json
+/Users/sidgore/Projects/sample1/1/bin/Debug/netcoreapp2.0/1.runtimeconfig.dev.json
+/Users/sidgore/Projects/sample1/1/bin/Debug/netcoreapp2.0/1.dll
+/Users/sidgore/Projects/sample1/1/bin/Debug/netcoreapp2.0/1.pdb
+/Users/sidgore/Projects/sample1/1/obj/Debug/netcoreapp2.0/1.csprojResolveAssemblyReference.cache
+/Users/sidgore/Projects/sample1/1/obj/Debug/netcoreapp2.0/1.csproj.CoreCompileInputs.cache
+/Users/sidgore/Projects/sample1/1/obj/Debug/netcoreapp2.0/1.AssemblyInfoInputs.cache
+/Users/sidgore/Projects/sample1/1/obj/Debug/netcoreapp2.0/1.AssemblyInfo.cs
+/Users/sidgore/Projects/sample1/1/obj/Debug/netcoreapp2.0/1.dll
+/Users/sidgore/Projects/sample1/1/obj/Debug/netcoreapp2.0/1.pdb

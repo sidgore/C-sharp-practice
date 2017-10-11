@@ -1,0 +1,5 @@
+/Users/sidgore/Projects/sample1/sample1/obj/x86/Debug/sample1.csproj.CoreCompileInputs.cache
+/Users/sidgore/Projects/sample1/sample1/bin/Debug/sample1.exe
+/Users/sidgore/Projects/sample1/sample1/bin/Debug/sample1.pdb
+/Users/sidgore/Projects/sample1/sample1/obj/x86/Debug/sample1.exe
+/Users/sidgore/Projects/sample1/sample1/obj/x86/Debug/sample1.pdb
