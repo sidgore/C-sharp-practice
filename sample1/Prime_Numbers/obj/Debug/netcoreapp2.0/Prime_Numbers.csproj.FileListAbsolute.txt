@@ -1,0 +1,11 @@
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/bin/Debug/netcoreapp2.0/Prime_Numbers.deps.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/bin/Debug/netcoreapp2.0/Prime_Numbers.runtimeconfig.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/bin/Debug/netcoreapp2.0/Prime_Numbers.runtimeconfig.dev.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/bin/Debug/netcoreapp2.0/Prime_Numbers.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/bin/Debug/netcoreapp2.0/Prime_Numbers.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/obj/Debug/netcoreapp2.0/Prime_Numbers.csprojResolveAssemblyReference.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/obj/Debug/netcoreapp2.0/Prime_Numbers.csproj.CoreCompileInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/obj/Debug/netcoreapp2.0/Prime_Numbers.AssemblyInfoInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/obj/Debug/netcoreapp2.0/Prime_Numbers.AssemblyInfo.cs
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/obj/Debug/netcoreapp2.0/Prime_Numbers.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/Prime_Numbers/obj/Debug/netcoreapp2.0/Prime_Numbers.pdb

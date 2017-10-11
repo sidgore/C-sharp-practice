@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sidgore/.dotnet/store/|arch|/|tfm|",
+      "/Users/sidgore/.nuget/packages"
+    ]
+  }
+}

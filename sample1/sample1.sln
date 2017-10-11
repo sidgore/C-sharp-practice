@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{6C72CAD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "..\HelloWorld\HelloWorld\HelloWorld.csproj", "{285C75E6-5CA9-4D42-B3B7-CC7F9C241B67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime_Numbers", "Prime_Numbers\Prime_Numbers.csproj", "{29E33A1D-511F-462E-993F-F162F7D4441F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{285C75E6-5CA9-4D42-B3B7-CC7F9C241B67}.Debug|x86.Build.0 = Debug|Any CPU
 		{285C75E6-5CA9-4D42-B3B7-CC7F9C241B67}.Release|x86.ActiveCfg = Release|Any CPU
 		{285C75E6-5CA9-4D42-B3B7-CC7F9C241B67}.Release|x86.Build.0 = Release|Any CPU
+		{29E33A1D-511F-462E-993F-F162F7D4441F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{29E33A1D-511F-462E-993F-F162F7D4441F}.Debug|x86.Build.0 = Debug|Any CPU
+		{29E33A1D-511F-462E-993F-F162F7D4441F}.Release|x86.ActiveCfg = Release|Any CPU
+		{29E33A1D-511F-462E-993F-F162F7D4441F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
