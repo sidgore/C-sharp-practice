@@ -7,7 +7,7 @@
       <File FileName="sample1/Main.cs" Line="10" Column="13" />
       <File FileName="1/Program.cs" Line="13" Column="12" />
       <File FileName="../HelloWorld/HelloWorld/Program.cs" Line="12" Column="12" />
-      <File FileName="Prime_Numbers/Program.cs" Line="31" Column="18" />
+      <File FileName="Prime_Numbers/Program.cs" Line="13" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
