@@ -3,3 +3,8 @@
 /Users/sidgore/Projects/sample1/sample1/bin/Debug/sample1.pdb
 /Users/sidgore/Projects/sample1/sample1/obj/x86/Debug/sample1.exe
 /Users/sidgore/Projects/sample1/sample1/obj/x86/Debug/sample1.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/sample1/bin/Debug/sample1.exe
+/Users/sidgore/Documents/C-sharp-practice/sample1/sample1/bin/Debug/sample1.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/sample1/obj/x86/Debug/sample1.csproj.CoreCompileInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/sample1/obj/x86/Debug/sample1.exe
+/Users/sidgore/Documents/C-sharp-practice/sample1/sample1/obj/x86/Debug/sample1.pdb

@@ -1,0 +1,10 @@
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/LinkedListExample.deps.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/LinkedListExample.runtimeconfig.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/LinkedListExample.runtimeconfig.dev.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/LinkedListExample.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/LinkedListExample.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/LinkedListExample.csproj.CoreCompileInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/LinkedListExample.AssemblyInfoInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/LinkedListExample.AssemblyInfo.cs
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/LinkedListExample.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/LinkedListExample.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime_Numbers", "Prime_Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{F7B3CAB6-C318-46EE-884F-0ADBA7FE0470}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExample", "Web_Api_Example\LinkedListExample.csproj", "{CE45AC17-1694-4B7F-8ECB-206EB2997889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{F7B3CAB6-C318-46EE-884F-0ADBA7FE0470}.Debug|x86.Build.0 = Debug|Any CPU
 		{F7B3CAB6-C318-46EE-884F-0ADBA7FE0470}.Release|x86.ActiveCfg = Release|Any CPU
 		{F7B3CAB6-C318-46EE-884F-0ADBA7FE0470}.Release|x86.Build.0 = Release|Any CPU
+		{CE45AC17-1694-4B7F-8ECB-206EB2997889}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE45AC17-1694-4B7F-8ECB-206EB2997889}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE45AC17-1694-4B7F-8ECB-206EB2997889}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE45AC17-1694-4B7F-8ECB-206EB2997889}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

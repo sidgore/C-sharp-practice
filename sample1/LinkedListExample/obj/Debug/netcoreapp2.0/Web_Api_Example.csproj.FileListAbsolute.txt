@@ -1,0 +1,11 @@
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/Web_Api_Example.csproj.CoreCompileInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/Web_Api_Example.AssemblyInfoInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/Web_Api_Example.AssemblyInfo.cs
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/Web_Api_Example.deps.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/Web_Api_Example.runtimeconfig.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/Web_Api_Example.runtimeconfig.dev.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/Web_Api_Example.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/bin/Debug/netcoreapp2.0/Web_Api_Example.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/Web_Api_Example.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/Web_Api_Example.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/Web_Api_Example/obj/Debug/netcoreapp2.0/Web_Api_Example.csprojResolveAssemblyReference.cache
