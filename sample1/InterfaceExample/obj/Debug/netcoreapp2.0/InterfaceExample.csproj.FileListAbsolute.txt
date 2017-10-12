@@ -1,0 +1,11 @@
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/obj/Debug/netcoreapp2.0/InterfaceExample.csprojResolveAssemblyReference.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/obj/Debug/netcoreapp2.0/InterfaceExample.csproj.CoreCompileInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/obj/Debug/netcoreapp2.0/InterfaceExample.AssemblyInfoInputs.cache
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/obj/Debug/netcoreapp2.0/InterfaceExample.AssemblyInfo.cs
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/bin/Debug/netcoreapp2.0/InterfaceExample.deps.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/bin/Debug/netcoreapp2.0/InterfaceExample.runtimeconfig.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/bin/Debug/netcoreapp2.0/InterfaceExample.runtimeconfig.dev.json
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/bin/Debug/netcoreapp2.0/InterfaceExample.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/bin/Debug/netcoreapp2.0/InterfaceExample.pdb
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/obj/Debug/netcoreapp2.0/InterfaceExample.dll
+/Users/sidgore/Documents/C-sharp-practice/sample1/InterfaceExample/obj/Debug/netcoreapp2.0/InterfaceExample.pdb
